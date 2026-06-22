@@ -1,7 +1,6 @@
 # <p align="center">🚀 developer2gwy</p>
 
 <p align="center"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/miss-mumu/developer2gwy?style=social"> 🍔 <img alt="GitHub forks" src="https://img.shields.io/github/forks/miss-mumu/developer2gwy?style=social"> 🍕 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/miss-mumu/developer2gwy?style=social"></p>
-
 > [一份开源公务员考试的最佳实践指南，一部解构体制工作生活的说明手册](https://www.gongkaoshequ.com/)
 
 ## 👋Quick start
@@ -31,8 +30,6 @@
 最后，向大家介绍一位新的成员，云瑜，通过D2G项目认识的一位非典型程序员，下面有他的简介。同时，兴邦也是因为工作原因（考上三支一扶）调动到基础工作。这一年来，项目断断续续，就像我们的人生一样，并不会和大家想的，体制内可以一眼看到头，期间会有各种波折，例如加班、值守、调动、借用、学习、培训等，总有一件意想不到的事情打乱你原本平静的生活，让自己对明天，既充满期待，又时常惶恐。
 
 我们依旧不会断更，并且**D2G项目进去一个新的阶段**，那就是由开源社区逐渐接管D2G项目的发展（由GitHub伤挖掘出来的新成员，云瑜主持D2G的相关工作），前期的成员，除了提供一些素材、想法、工作、生活的分享外，就只是对项目发展的方向进行一个把关（确保不走偏走歪），不再参加细节的运营。
-
-最后，请大家，多多star，我们定会保证项目的行稳致远。
 
 > 比起输出知识或者内容，陪伴帮助大家上岸更为重要！如果你在公考之路上，有彷徨、有犹豫、有问题、少资料、缺计划、缺方法清[联系我们](https://github.com/miss-mumu/developer2gwy/wiki/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)或者在[公考社区](https://www.gongkaoshequ.com) 发帖，我们竭尽所能，帮大家。
 
